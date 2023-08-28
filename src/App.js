@@ -26,7 +26,6 @@ function App() {
     <div>
       <nav className="navbar navbar-expand-md navbar-dark bg-dark mb-4">
         <a className="navbar-brand text-white" href="top">
-        <img src={previsaoTempo.current.condition.icon}/>
           Previsão do Tempo
         </a>
       </nav>
